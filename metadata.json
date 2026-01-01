@@ -1,0 +1,7 @@
+{
+  "name": "LotChain Perú",
+  "description": "Plataforma de trazabilidad sanitaria de medicamentos por lote con registro inmutable en Stellar Blockchain para MINSA/DIGEMID.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
